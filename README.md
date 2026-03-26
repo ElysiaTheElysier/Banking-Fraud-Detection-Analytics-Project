@@ -11,6 +11,7 @@
 
 **Expected Output:** An end-to-end analytical pipeline featuring interactive Power BI dashboards that provide a top-down view (from macro-economic trends to micro-fraud characteristics) and a highly optimized Machine Learning model to detect high-ticket fraud. This project demonstrates a complete data workflow from data extraction to business intelligence and predictive modeling.
 
+👉 **[Click here to view Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTc3NGEtNDY1Ni00OTkxLWE3NzQtNDVhNmYxYmNlZWIzIiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9)**
 ---
 
 ## 🛠️ 2. Tech Stack & Tools
