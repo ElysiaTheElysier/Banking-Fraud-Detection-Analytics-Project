@@ -7,7 +7,7 @@
 
 **Data Landscape:** The project utilizes an extensive system of credit and debit card transaction data spanning the 2010s, combined with customer demographics, card profiles (credit limits, security features), and Merchant Category Codes (MCC). 
 * **Scale:** Over 13 million transactions, 1,219 unique users.
-* **Challenge:** Extreme class imbalance, with actual fraud accounting for only ~0.15% of all labeled transactions.
+* **Challenge:** Extreme class imbalance, with actual fraud accounting for only ~0.10% of all labeled transactions.
 
 **Expected Output:** An end-to-end analytical pipeline featuring interactive Power BI dashboards that provide a top-down view (from macro-economic trends to micro-fraud characteristics) and a highly optimized Machine Learning model to detect high-ticket fraud. This project demonstrates a complete data workflow from data extraction to business intelligence and predictive modeling.
 
