@@ -88,7 +88,7 @@ Before modeling, mathematical EDA drove critical technical decisions:
 
 **Algorithm Selection:** Given the extreme right-skewness of `amount`, crucial outliers, and non-linear relationships, **XGBoost** was chosen over linear algorithms.
 
-**Handling Class Imbalance (0.15% Fraud):**
+**Handling Class Imbalance (0.10% Fraud):**
 We bypassed SMOTE and utilized XGBoost's native **`scale_pos_weight`** parameter. This fundamentally penalized the algorithm heavily for missing a fraud case, increasing our validation score to **0.7498**.
 
 **Business-Centric Threshold Tuning:**
